@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+learning DVCS and git devreleri
+branch kullanimi
+dallar ayrintilari
