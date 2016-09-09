@@ -22,6 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-learning DVCS and git devreleri
-branch kullanimi
-dallar ayrintilari
+
+*learning [DVCS and git devreleri](https://www.youtube.com/watch?v=gMzSpvibN7A)
+*branch kullanimi
+*dallar ayrintilari
