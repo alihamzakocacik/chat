@@ -24,5 +24,5 @@ Things you may want to cover:
 * ...
 
 *learning [DVCS and git devreleri](https://www.youtube.com/watch?v=gMzSpvibN7A)
-*branch kullanimi
+*branch [kullanimi](https://twitter.com)
 *dallar ayrintilari
