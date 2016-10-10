@@ -22,7 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-*learning [DVCS and git devreleri](https://www.youtube.com/watch?v=gMzSpvibN7A)
-*branch [kullanimi](https://twitter.com)
-*dallar ayrintilari
